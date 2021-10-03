@@ -3,9 +3,9 @@ name: Gradle CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ coin_free ]
   pull_request:
-    branches: [ main ]
+    branches: [ coin_free ]
     
 
 jobs:
